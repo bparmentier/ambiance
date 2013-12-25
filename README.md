@@ -21,5 +21,5 @@ For the "mood lamp", see this Instructable:
 
 Libraries
 ---------
-Arduino: [Arduino-IRremote](https://github.com/shirriff/Arduino-IRremote)
-Raspberry Pi: [pySerial](http://pyserial.sourceforge.net/)
+* Arduino: [Arduino-IRremote](https://github.com/shirriff/Arduino-IRremote)
+* Raspberry Pi: [pySerial](http://pyserial.sourceforge.net/)
