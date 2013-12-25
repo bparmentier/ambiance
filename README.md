@@ -17,7 +17,7 @@ An Arduino Uno is connected to the USB port of a Raspberry Pi.
 * light-dependent resistor (LDR) connected to pin A0 (analog);
 * 3 leds (red, green, blue) connected to pins 6, 9, 10 (PWM).
 
-![ambiance-schematics](https://raw.github.com/bparmentier/ambiance/master/ambiance-schematics.png)
+![ambiance-schematics](ambiance-schematics.png)
 
 Libraries
 ---------
