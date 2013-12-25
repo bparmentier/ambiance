@@ -10,35 +10,6 @@
  * IR LED on PWM pin 3;
  * LDR (photoresistor) on analog pin A0;
  *
- * Led strip NEC codes:
- *
- * Brightness+ F700FF
- * Static red F720DF
- * Static rose red F710EF
- * Static orange F730CF
- * Static light yellow F708F7
- * Static yellow F728D7
- * 
- * Brightness- F7807F
- * Static green F7A05F
- * Static light green F7906F
- * Static green blue F7B04F
- * Static sky blue F78877
- * Static cyan F7A857
- * 
- * OFF F740BF
- * Static blue F7609F
- * Static sapphire blue F750AF
- * Static violet and grey F7708F
- * Static brown and purple F748B7
- * Static purple F76897
- * 
- * ON F7C03F
- * Static white F7E01F
- * 3 colors jump F7D02F
- * 3 colors gradual F7F00F
- * 7 colors gradual F7C837
- * 7 colors jump F7E817
  */
 
 #include <IRremote.h>
